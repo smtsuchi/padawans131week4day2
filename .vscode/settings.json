@@ -1,0 +1,20 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "bubble.db.elephantsql.com",
+            "driver": "PostgreSQL",
+            "username": "nvzuanpc",
+            "database": "nvzuanpc",
+            "name": "Shoha's DB",
+            "connectString": "postgres://nvzuanpc:x1qaQzyT1ecgoSIfe6H9ly1jjnIgxs9N@bubble.db.elephantsql.com/nvzuanpc"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://naenolzr:etuqvcsT_0-JQHSXMQus2g73pnB88V-z@berry.db.elephantsql.com/naenolzr",
+            "name": "movie_theater"
+        }
+    ]
+}
